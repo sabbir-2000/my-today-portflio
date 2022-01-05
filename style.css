@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.headline{
+    font-size: 20px;
+  
+    border-left: 3px solid;
+    border-color: orange;
+    margin-top: 5%;
+}
+.headline-color{
+    color: tomato;
+}
+
+    
+.flexible-container{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    margin: 5%;
+   
+   text-align: justify;
+}
+
+.half-width img{
+    width: 85%;
+    margin: 5%;
+}
+.click-button{
+    padding: 15px;
+    background-color: peru;
+    color: white;
+    border-radius: 7px;
+}
