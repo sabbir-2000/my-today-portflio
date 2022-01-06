@@ -144,3 +144,25 @@ body{
 .mint-clr{
     color: tomato;
 }
+.sal-color{
+    color: rgb(211, 42, 42);
+}
+.last-color{
+    color: skyblue;
+}
+.title{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+.title h1{
+    font-size: 30px;
+    font-weight: 700px;
+}
+.foter-title h1{
+    font-size: 40px;
+    font-family: serif;
+    font-weight: 800;
+  font-style: oblique;
+}
